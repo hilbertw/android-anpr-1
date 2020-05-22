@@ -1,0 +1,68 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.intelligency"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:7:2-78
+11-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:7:19-75
+12    <uses-permission android:name="android.permission.WAKE_LOCK" />
+12-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:8:2-65
+12-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:8:19-62
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:9:2-61
+13-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:9:19-59
+14
+15    <uses-feature android:name="android.hardware.camera2.full" />
+15-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:10:5-66
+15-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:10:19-63
+16
+17    <application
+17-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:11:5-28:16
+18        android:name="com.intelligence.GlobalApplication"
+18-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:12:9-58
+19        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+19-->[com.android.support:support-compat:28.0.0] /root/.gradle/caches/transforms-2/files-2.1/b3b2650f64b2440dc0003d3cfdd74bb6/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:icon="@drawable/icon"
+22-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:13:9-38
+23        android:label="@string/app_name"
+23-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:14:9-41
+24        android:supportsRtl="true"
+24-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:15:9-35
+25        android:testOnly="true"
+25-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:16:9-33
+26        android:theme="@style/AppTheme" >
+26-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:17:9-40
+27        <activity
+27-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:19:9-27:20
+28            android:name="com.intelligence.MainActivity"
+28-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:19:19-63
+29            android:hardwareAccelerated="true"
+29-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:20:13-47
+30            android:label="@string/app_name"
+30-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:22:13-45
+31            android:theme="@style/AppTheme.NoActionBar" >
+31-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:21:13-56
+32            <intent-filter>
+32-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:23:13-26:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:24:17-69
+33-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:24:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:25:17-77
+35-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:25:27-74
+36            </intent-filter>
+37        </activity>
+38    </application>
+39
+40</manifest>

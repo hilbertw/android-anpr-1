@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/disk1/android-anpr-11/app/build/intermediates/res/merged/debug/raw_config.xml.flat",
+        "source": "/disk1/android-anpr-11/app/src/main/res/raw/config.xml"
+    },
+    {
+        "merged": "/disk1/android-anpr-11/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/disk1/android-anpr-11/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/disk1/android-anpr-11/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/disk1/android-anpr-11/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/disk1/android-anpr-11/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/disk1/android-anpr-11/app/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/disk1/android-anpr-11/app/build/intermediates/res/merged/debug/layout_content_main.xml.flat",
+        "source": "/disk1/android-anpr-11/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/disk1/android-anpr-11/app/build/intermediates/res/merged/debug/raw_syntax.xml.flat",
+        "source": "/disk1/android-anpr-11/app/src/main/res/raw/syntax.xml"
+    },
+    {
+        "merged": "/disk1/android-anpr-11/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/disk1/android-anpr-11/app/src/main/res/layout/activity_main.xml"
+    }
+]

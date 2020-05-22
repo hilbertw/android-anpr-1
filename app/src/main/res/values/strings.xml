@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, intelligencyActivity!</string>
+    <string name="app_name">intelligencyNative</string>
+    <string name="take_picture">Take picture</string>
+
+</resources>
