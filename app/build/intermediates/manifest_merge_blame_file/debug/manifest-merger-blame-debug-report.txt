@@ -38,7 +38,7 @@
 23-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:14:9-41
 24        android:supportsRtl="true"
 24-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:15:9-35
-25        android:testOnly="true"
+25        android:testOnly="false"
 25-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:16:9-33
 26        android:theme="@style/AppTheme" >
 26-->/disk1/android-anpr-11/app/src/main/AndroidManifest.xml:17:9-40
